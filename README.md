@@ -7,3 +7,4 @@ I also had to overcome the challenge of updating the web server's html to displa
 
 ![20231005_141125](https://github.com/BadBanana5/Motion-detecting/assets/134112996/c3b0e513-bef6-42a5-a285-8eb3fa1ca47f)
 ![Screenshot_20231005-142115_Signal](https://github.com/BadBanana5/Motion-detecting/assets/134112996/f2024523-18b6-4e0c-9b68-0c370ce81c23)
+![image](https://github.com/BadBanana5/Motion-detecting/assets/134112996/1706acf9-336c-4f08-8b01-e1b98f493ab8)
